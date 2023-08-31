@@ -38,8 +38,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('Movie Gʀᴏᴜᴘ', url="https://t.me/newmoveisp"),
-                    InlineKeyboardButton('Movie Cʜᴀɴɴᴇʟ', url="https://t.me/bholaatw")
+                    InlineKeyboardButton('Movie Gʀᴏᴜᴘ', url="https://t.me/malangmovie3"),
+                    InlineKeyboardButton('Movie Cʜᴀɴɴᴇʟ', url="https://t.me/malangmovie")
                  ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -59,8 +59,8 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton('Movie Gʀᴏᴜᴘ', url="https://t.me/newmoveisp"),
-                                                                           InlineKeyboardButton('Movie Cʜᴀɴɴᴇʟ', url="https://t.me/bholaatw")
+                                                                           InlineKeyboardButton('Movie Gʀᴏᴜᴘ', url="https://t.me/malangmovie3"),
+                                                                           InlineKeyboardButton('Movie Cʜᴀɴɴᴇʟ', url="https://t.me/malangmovie")
                                                                         ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
@@ -85,7 +85,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('Owner', url="https://t.me/Ashish_xlr8")
+            InlineKeyboardButton('Owner', url="https://t.me/Malang_moviebot")
         ],[
             InlineKeyboardButton('Use Me Here', url=f'https://t.me/{SUPPORT_CHAT}')
         ]]
