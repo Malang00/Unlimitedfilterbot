@@ -769,8 +769,8 @@ async def send_all(bot, userid, files, ident, chat_id, user_name, query):
                         reply_markup=InlineKeyboardMarkup(
                             [
                                 [
-                                InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url= "https://t.me/malangmovie04"),
-                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url= "https://t.me/malangmovie02")
+                                InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url= "https://t.me/malangmovie3"),
+                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url= "https://t.me/malangmovie")
                             ],[
                                 InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Malang_moviebot")
                                 ]
@@ -812,8 +812,8 @@ async def send_all(bot, userid, files, ident, chat_id, user_name, query):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                        InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url= "https://t.me/malangmovie04"),
-                        InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url= "https://t.me/malangmovie02")
+                        InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url= "https://t.me/malangmovie3"),
+                        InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url= "https://t.me/malangmovie")
                     ],[
                         InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Malang_moviebot")
                         ]
