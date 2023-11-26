@@ -150,18 +150,18 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=http://omegalinks.in> ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
+<b>──────「<a href=https://tnshort.net> ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
 
 Now You can start earning 💸 money today with our Simple and easy-to-use bot!
 
 ›› Step 1: Add This bot to your group as an admin..
 
-›› Step 2: If you don't Using any shortner website then make account first on omegalinks.in (You can also use other link shortner website).
+›› Step 2: If you don't Using any shortner website then make account first on https://tnshort.net/ref/Honeyjii (You can also use other link shortner website).
 
 ›› Step 3: Copy your API from website and then, simply set your website and API Using the
 /set_shortner command
 
-› Like this :  /set_shortner omegalinks.in 75846756921608b60ca6a467cb368388197d712b
+› Like this :  /set_shortner tnshort.net d1ea9c65f2853da50c439f22130ad883ba883fc4
 
 
 ★ This bot will automatically converts links with Your Api and will provide your links.
